@@ -1,0 +1,1 @@
+Temporary transfer of the Pandemonium model files for the models-best-accuracy-3 release. Join with `cat pand8.onnx.data.part* > pand8.onnx.data` and check with `shasum -a 256 -c SHA256SUMS`. This branch is deleted after the release is up.

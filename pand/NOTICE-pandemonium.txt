@@ -1,0 +1,8 @@
+Pandemonium speech recognition model
+
+This app includes the Pandemonium model by Alexander Polok, Dominik Klement, Ivan Medennikov, Antoine Laurent, Petr Pálka, Samuele Cornell, Shinji Watanabe, Sanjeev Khudanpur, Jagadeesh Balam, Jan Černocký, Lukáš Burget and Matthew Wiesner (BUT Speech@FIT), https://huggingface.co/BUT-FIT/Pandemonium, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Changes: converted to ONNX format and stored at reduced numeric precision for on-device use. The inference code is an independent reimplementation.
+
+Pandemonium is a fine-tuned derivative of Parakeet-TDT-0.6b-v3 by NVIDIA, https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3, licensed under CC BY 4.0.
+
+The model is provided as is, without warranties of any kind.
